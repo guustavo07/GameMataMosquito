@@ -30,4 +30,4 @@ O projeto é um game cujo o nome é "Mata Mosquito" que foi desenvolvido atravé
 
 ## 🔖 Link
 
-Você pode visualizar o projeto através [DESSE LINK](game-mata-mosquito-sigma.vercel.app). É recomendado abrir pelo navegador Chrome.
+Você pode visualizar o projeto através [DESSE LINK](https://game-mata-mosquito-sigma.vercel.app/). É recomendado abrir pelo navegador Chrome.
